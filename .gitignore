@@ -1,0 +1,11 @@
+.idea
+venv/
+__pycache__
+.ipynb_checkpoints
+*.pyc
+<<<<<<< HEAD
+=======
+*.log
+.coverage
+notebook/data/write.*
+>>>>>>> bfc6752c5e147bb50645692f4fa7afdcb0a7c9f8
